@@ -1,7 +1,7 @@
-Base
+Java 8
 =========
 
-Installs all the basics that are usually required by any environment.
+Installs Java 8.
 
 Requirements
 ------------
